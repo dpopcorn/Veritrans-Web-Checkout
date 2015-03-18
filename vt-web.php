@@ -1,13 +1,12 @@
 <?php 
 /*
-Plugin Name: VeriTrans Web Payment
+Plugin Name: Veritrans Web Checkout
 Plugin URI: http://dpopcorn.net/
 Description: Get an easy checkout with Veritrans Payment Web Checkout.
 Version: 1.0.0
 Author: dpopcorn
 Author URI: http://dpopcorn.net/
 License: GPLv2 or later
-Text Domain: vt-web
 */
 
 require_once(dirname(__FILE__) . '/options.php');
