@@ -5,7 +5,7 @@ Wordpress Plugin to create an easy checkout with Veritrans Payment (https://www.
 Download and than go to add new plugin on your dashboard
 
 ## Setting
-Go to Setting > VT Payment. There is tweo option:
+Go to Setting > VT Payment. There is two option:
 - Check the "Sanbox mode" when you want to use with sandbox mode
 - And then insert your server key in Server Key Field
 
